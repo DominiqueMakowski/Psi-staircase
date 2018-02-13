@@ -1,6 +1,7 @@
 # PsiMarginal
 Psi adaptive staircase procedure for use in psychophysics.
 
+
 ## Authors:
 Nynke Niehof, James Cooke, Radboud University Nijmegen
 
@@ -24,6 +25,12 @@ along with PsiMarginal. If not, see <http://www.gnu.org/licenses/>.
 Find the stimulus intensity with minimum expected entropy for each trial, to determine the psychometric function.
 Psi adaptive staircase procedure for use in psychophysics, as described in Kontsevich & Tyler (1999)
 and psi-marginal staircase as described in Prins(2013). Implementation based on the Palamedes toolbox (version 1.8.1) for Matlab.
+
+
+## Installation:
+
+`pip install https://github.com/DominiqueMakowski/Psi-staircase/zipball/master`
+
 
 ### References:
 Kontsevich, L. L. & Tyler, C. W. (1999). Bayesian adaptive estimation of psychometric slope and threshold. Vision Research, 39, 2729-2737.
